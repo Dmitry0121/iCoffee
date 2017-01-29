@@ -25,8 +25,6 @@ namespace CoffeeShop
 
         private List<string> orderList = new List<string>();
 
-        private int a = 1;
-
         private void ClearAll()
         {            
             if (MainForm.SelfRef != null)
